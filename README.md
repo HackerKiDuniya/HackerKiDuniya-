@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HACKER😈</h1>
 <h3 align="center">I Hack the System 🫵🏼 are not secure</h3>
-<img>="right" alt="coding" width="400" src="https://images.app.goo.gl/WqKwSPN82L2oz693.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackerkiduniya&label=Profile%20views&color=0e75b6&style=flat" alt="hackerkiduniya" /> </p>
 
 - 🔭 I’m currently working on **TO Hack Your system 😈**
